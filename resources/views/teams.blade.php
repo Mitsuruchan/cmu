@@ -54,7 +54,7 @@
        <!--右側エリア[START]-->
         <div class="flex-1 text-gray-700 text-left bg-blue-100 px-4 py-2 m-2">
             <div class="flex justify-between p-4 items-center bg-gray-500 text-white">
-                <div>工事名</div><div>お施主様名</div><div>所属人数</div><div>詳細</div><div>参加ボタン</div>
+                <div>工事名</div><div>施主様名</div><div>所属人数</div><div>詳細</div><div>参加ボタン</div>
             </div>
              <!-- チーム一覧 -->
              @if( count($teams) > 0 )
